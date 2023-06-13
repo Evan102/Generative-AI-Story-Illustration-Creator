@@ -16,5 +16,5 @@ PS. You need to put an OpenAI API key in modelstoweb.py for story generation
 Download link: https://drive.google.com/drive/folders/1FoHAjIVbifsogPpLIvnBCexoDik0SIix?usp=sharing
 
 ## Report introduction
-
+Generative AI Story & Image Creator.pdf
 
