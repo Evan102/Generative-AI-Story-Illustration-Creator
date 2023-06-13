@@ -13,7 +13,7 @@ python modelstoweb.py
 PS. You need to put an OpenAI API key in modelstoweb.py for story generation
 
 ## Trained lora weight files
-lora files
+Download link: https://drive.google.com/drive/folders/1FoHAjIVbifsogPpLIvnBCexoDik0SIix?usp=sharing
 
 ## Report introduction
 
