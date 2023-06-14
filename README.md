@@ -8,7 +8,7 @@ PS. It requires about 12GB GPU RAM to train lora weights
 ## Test a text-to-image model
 python text2imagemodel_test.py
 
-## Web platform for story & Illustration generation
+## Web platform for story & illustration generation
 python modelstoweb.py  
 PS. You need to put an OpenAI API key in modelstoweb.py for story generation
 
